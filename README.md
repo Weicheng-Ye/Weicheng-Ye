@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi I am Weicheng Ye 👋
+
+- I am a postdoctoral fellow at the University of British Columbia
+- ⚡ Fun fact: ...
 
 <!--
 **Weicheng-Ye/Weicheng-Ye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
