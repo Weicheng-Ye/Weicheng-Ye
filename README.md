@@ -8,7 +8,9 @@
 - Applying the concepts and ideas of quantum phases to other statistical systems
 
 😄 Pronouns: he/him
+
 📫 My email address is victorye963@gmail.com
+
 💬 I love traveling and meeting new friends! Let's chat when we are in the same city!
 
 <!--
