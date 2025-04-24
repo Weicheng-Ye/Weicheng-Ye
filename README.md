@@ -2,7 +2,7 @@
 
 🔭 I am currently a postdoctoral fellow at the University of British Columbia
 
-👀 My research focuses on understanding *quantum phases* in condensed matter systems
+👀 My research focuses on understanding *quantum phases* 
 - Mathematical theory behind quantum phases
 - Characterization and identification of quantum phases
 - Applying the concepts and ideas of quantum phases to other statistical systems
