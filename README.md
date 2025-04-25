@@ -7,6 +7,8 @@
 - Characterization and identification of quantum phases
 - Applying the concepts and ideas of quantum phases to other statistical systems
 
+🤔 My research features interdisciplinary methods, including an extensive use of *algebraic topology* and *machine learning*
+
 😄 Pronouns: he/him
 
 📫 My email address is victorye963@gmail.com
