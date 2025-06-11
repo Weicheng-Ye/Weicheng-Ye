@@ -9,8 +9,6 @@
 
 🤔 My research features interdisciplinary methods, including an extensive use of *algebraic topology* and *machine learning*
 
-😄 Pronouns: he/him
-
 📫 My email address is victorye963@gmail.com
 
 💬 I love traveling and meeting new friends! Let's chat when we are in the same city!
