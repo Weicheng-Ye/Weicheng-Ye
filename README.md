@@ -9,7 +9,7 @@
 
 🤔 My research features interdisciplinary methods, including an extensive use of *algebraic topology* and *artificial intelligence*
 
-📫 My email address is victorye963@gmail.com
+📫 My email address is victorye963 at gmail.com
 
 💬 I love traveling and meeting new friends! Let's chat when we are in the same city!
 
