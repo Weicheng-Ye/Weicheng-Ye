@@ -1,15 +1,12 @@
-## Hi I am Weicheng Ye 👋
+Hi, I am Weicheng Ye 👋 Nice to meet you!
 
-🔭 I am currently a postdoctoral fellow at the University of British Columbia
+🔭 I am currently a postdoctoral fellow at the Chinese University of Hong Kong. I was trained as a theoretical and mathematical physicist at Peking University and Perimeter Institute for Theoretical Physics.
 
-👀 My research focuses on understanding *quantum phases* 
-- Mathematical theory behind quantum phases
-- Characterization and identification of quantum phases
-- Applying the concepts and ideas of quantum phases to other statistical systems
+👀 My current interest lies in
 
-🤔 My research features interdisciplinary methods, including an extensive use of *algebraic topology* and *artificial intelligence*
+-- Reinforcement learning and its application in math and quantum physics
 
-📫 My email address is victorye963 at gmail.com
+-- Agentic math/physics/quant
 
 💬 I love traveling and meeting new friends! Let's chat when we are in the same city!
 
