@@ -16,10 +16,10 @@
 
 ### 🌀 Mathematical Physics
 
-* [**fermionAHSS**](https://github.com/Weicheng-Ye/fermionicAHSS) — a GAP package computing Atiyah–Hirzebruch spectral sequence (AHSS) pages through E6 for studying fermionic symmetry-protected topological phases up to (5+1) dimensions.
-* [**QSLClassification**](https://github.com/Weicheng-Ye/QSLClassification) — computational classification of symmetry-enriched topological quantum spin liquids.
+* [**fermionAHSS**](https://github.com/Weicheng-Ye/fermionicAHSS) — a GAP package computing Atiyah–Hirzebruch spectral sequence (AHSS) pages for studying fermionic symmetry-protected topological phases up to (5+1) dimensions.
 * [**mathPSG**](https://github.com/Weicheng-Ye/mathPSG) — projective symmetry group classifications for occupied Wyckoff positions in 3D space groups. *(collaborative development with Chunxiao Liu)*
 * [**SpaceGroupCohomology**](https://github.com/Weicheng-Ye/SpaceGroupCohomology) — mod-2 cohomology rings and Lieb–Schultz–Mattis anomaly classes for the 230 crystallographic space groups. *(collaborative development with Chunxiao Liu)*
+* [**QSLClassification**](https://github.com/Weicheng-Ye/QSLClassification) — computational classification of symmetry-enriched topological quantum spin liquids.
 * [**umtc**](https://github.com/Weicheng-Ye/umtc) — UMTC data, intrinsic symmetries, and consistency checks for anyon models.
 * [**Classification-of-Stiefel-Liquid**](https://github.com/Weicheng-Ye/Classification-of-Stiefel-Liquid) — code accompanying [arXiv:2111.12097](https://arxiv.org/abs/2111.12097).
 
