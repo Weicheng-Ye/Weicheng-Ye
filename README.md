@@ -16,6 +16,7 @@
 
 ### 🌀 Mathematical Physics
 
+* [**fermionAHSS**](https://github.com/Weicheng-Ye/fermionicAHSS) — a GAP package computing Atiyah–Hirzebruch spectral sequence (AHSS) pages through E6 for studying fermionic symmetry-protected topological phases up to (5+1) dimensions.
 * [**QSLClassification**](https://github.com/Weicheng-Ye/QSLClassification) — computational classification of symmetry-enriched topological quantum spin liquids.
 * [**mathPSG**](https://github.com/Weicheng-Ye/mathPSG) — projective symmetry group classifications for occupied Wyckoff positions in 3D space groups. *(collaborative development with Chunxiao Liu)*
 * [**SpaceGroupCohomology**](https://github.com/Weicheng-Ye/SpaceGroupCohomology) — mod-2 cohomology rings and Lieb–Schultz–Mattis anomaly classes for the 230 crystallographic space groups. *(collaborative development with Chunxiao Liu)*
